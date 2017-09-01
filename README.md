@@ -1,2 +1,2 @@
 # foodtruck
-baidu map useage demo
+baidu map usage demo
